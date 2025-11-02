@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99,
+      "stock": 45,
+      "ratings": [4.5, 4.8, 5.0, 4.2]
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "category": "Electronics",
+      "price": 29.99,
+      "stock": 150,
+      "ratings": [4.0, 4.3, 4.5]
+    },
+    {
+      "id": 3,
+      "name": "Keyboard",
+      "category": "Electronics",
+      "price": 79.99,
+      "stock": 85,
+      "ratings": [4.7, 4.9, 4.6, 4.8]
+    },
+    {
+      "id": 4,
+      "name": "Monitor",
+      "category": "Electronics",
+      "price": 299.99,
+      "stock": 30,
+      "ratings": [4.4, 4.6, 4.5]
+    },
+    {
+      "id": 5,
+      "name": "Webcam",
+      "category": "Electronics",
+      "price": 89.99,
+      "stock": 60,
+      "ratings": [4.2, 4.0, 4.3, 4.1]
+    }
+  ]
+}
