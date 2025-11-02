@@ -1,0 +1,250 @@
+,,,,,,,,,,,,,,
+,Error Record,,,,,,,,,,,,,
+,Mar-22,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Date,Production Area,Licensed Status,Product,Product Category ,When Was Error Detected,Error Type - PPU,Error Type - NAERS,Who Made Error,Who Detected Error,Contributing Factors,GMP Failure Severity,Potential Outcome,Did This Lead To CAPA/RCA,Comments
+02/03/2022,Zone 5 PN,B - Made under Section 10,A10 Adult,C - Parenteral Nutrition - adult,C - Check in preparation area,B - Worksheet preparation error,B3 - Incorrect dosage calculation (Worksheet prep),Op 23,Op 4,N - Distraction,Low,None,No,too much magnesium sulphate
+02/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 51,Op 13,N - Distraction,Low,None,No,only 1 of 2 BN recorded for Glucose 50%
+02/03/2022,Zone 5 PN,B - Made under Section 10,fat,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 46,Op 13,N - Distraction,Low,None,No,only set up 1 needed 2
+03/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 69,Op 21,N - Distraction,Low,None,No,incorrect BN for Glucose 10%
+03/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 69,Op 21,N - Distraction,Low,None,No,missing BN for potassium chloride
+03/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E1 - Incorrect drug assembled (Assembly),Op 69,Op 31,N - Distraction,Low,None,No,sodium chloride set up instead of sodium acetate
+03/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 39,Op 13,N - Distraction,Low,None,No,only 1 of 2 BN recorded for peditrace
+04/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 68,Op 13,N - Distraction,Low,None,No,too much vitlipid set up
+04/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E7 - Incorrect quantity/volume of diluent assembled (Assembly),Op 25,Op 13,N - Distraction,Low,None,No,not enough glucose 50% set up
+04/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 69,Op 13,N - Distraction,Low,None,No,not enough potassium chloride and potassium acetate set up
+04/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 69,Op 18,N - Distraction,Low,None,No,missing BN for peditrace
+02/03/2022,Zone 5 Cyt,B - Made under Section 10,etoposide,B - Cytotoxic paed,C - Check in preparation area,E - Assembly of starting materials,E2 Incorrect strength assembled (Assembly),Op 77,Op 66,N - Distraction,Low,None,No,incorrect vial size of etoposide
+03/03/2022,Zone 5 Cyt,B - Made under Section 10,vinblastine,B - Cytotoxic paed,C - Check in preparation area,C - Label generation errors,B6 - Incorrect batch number for product (Worksheet prep),Op 67,Op 105,N - Distraction,Low,None,No,incorrect batch number on label
+01/03/2022,NCCC,B - Made under Section 10,azacitidine,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 115,Op 27,N - Distraction,Low,None,No,incorrect BN for WFI
+01/03/2022,NCCC,B - Made under Section 10,melphalan,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,B5 - Incorrect volume of diluent (Worksheet prep),Op 118,Op 27,N - Distraction,Low,None,No,incorrect volume of sodium chloride to be removed
+02/03/2022,NCCC,B - Made under Section 10,bortezomib,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E9 - Incorrect volume syringes provided (Assembly),Op 77,Op 9,N - Distraction,Low,None,No,incorrect final product
+02/03/2022,NCCC,B - Made under Section 10,carboplatin,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C1 - Incorrect patient details (Label generation),Op 2,Op 9,N - Distraction,Low,None,No,incorrect labels - wrong patient
+02/03/2022,NCCC,B - Made under Section 10,irinotecan,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,B10 - Use of incorrect worksheet (Worksheet prep),Op 2,Op 9,N - Distraction,Low,None,No,incorrect worksheet
+03/03/2022,NCCC,B - Made under Section 10,cyclophosphamide,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,B10 - Use of incorrect worksheet (Worksheet prep),Op 118,Op 9,N - Distraction,Low,None,No,incorrect quantity of starting materials - wrong worksheet
+03/03/2022,NCCC,B - Made under Section 10,pembrolizumab,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 77,Op 9,N - Distraction,Low,None,No,incorrect batch number
+03/03/2022,NCCC,B - Made under Section 10,fluorouracil,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,B10 - Use of incorrect worksheet (Worksheet prep),Op 2,Op 9,N - Distraction,Low,None,No,incorrect worksheet - dosifusor 46 hours given instead of 4 days
+03/03/2022,NCCC,B - Made under Section 10,fluorouracil,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C9 - Incorrect batch number for product (Label generation),Op 2,Op 120,N - Distraction,Low,None,No,incorrect batch number
+03/03/2022,NCCC,B - Made under Section 10,cardioxanne,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C9 - Incorrect batch number for product (Label generation),Op 118,Op 120,N - Distraction,Low,None,No,incorrect batch number
+04/03/2022,NCCC,B - Made under Section 10,fluorouracil,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E2 Incorrect strength assembled (Assembly),Op 77,Op 120,N - Distraction,Low,None,No,incorrect fluorouracil set up
+04/03/2022,NCCC,B - Made under Section 10,durvalumab,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,B5 - Incorrect volume of diluent (Worksheet prep),Op 118,Op 11,N - Distraction,Low,None,No,incorrect diluent volume requested on worksheet
+04/03/2022,NCCC,B - Made under Section 10,arsenic,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,B3 - Incorrect dosage calculation (Worksheet prep),Op 2,Op 11,N - Distraction,Low,None,No,2 doses written up for patient when only 1 required
+07/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E1 - Incorrect drug assembled (Assembly),Op 39,Op 81,N - Distraction,Low,None,No,potassium acid phosphate set up instead of potassium acetate
+08/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 69,Op 21,N - Distraction,Low,None,No,missing BN for SMOF 250ml
+08/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 69,Op 21,N - Distraction,Low,None,No,missing BN for addaven
+09/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E7 - Incorrect quantity/volume of diluent assembled (Assembly),Op 39,Op 10,N - Distraction,Low,None,No,not enough glucose 20%
+10/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 103,Op 21,N - Distraction,Low,None,No,too much solivito
+10/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 66,Op 21,N - Distraction,Low,None,No,too much solivito
+10/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 69,Op 21,N - Distraction,Low,None,No,incorrect BN for Glucose 50%
+10/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E7 - Incorrect quantity/volume of diluent assembled (Assembly),Op 69,Op 21,N - Distraction,Low,None,No,not enough glucose 50% set up
+11/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 69,Op 12,N - Distraction,Low,None,No,incorrect BN for magnesium sulphate
+11/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 69,Op 66,N - Distraction,Low,None,No,only 1 of 2 BN recorded for addaven
+11/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 69,Op 18,N - Distraction,Low,None,No,not enough peditrace set up
+11/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 69,Op 18,N - Distraction,Low,None,No,not enough peditrace set up
+11/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 69,Op 18,N - Distraction,Low,None,No,missing BN for aminoven
+07/03/2022,Zone 5 AD,B - Made under Section 10,Vancomycin,F - Other Aseptic Product,C - Check in preparation area,B - Worksheet preparation error,B3 - Incorrect dosage calculation (Worksheet prep),Op 16,Op 29,N - Distraction,Low,None,No,dose written up in error- patient no longer wanted
+07/03/2022,Zone 5 AD,B - Made under Section 10,Tazocin,F - Other Aseptic Product,C - Check in preparation area,B - Worksheet preparation error,B10 - Use of incorrect worksheet (Worksheet prep),Op 16,Op 29,N - Distraction,Low,None,No,dose written up on wrong worksheet
+09/03/2022,Zone 5 Cyt,B - Made under Section 10,Mitomycin,B - Cytotoxic paed,C - Check in preparation area,C - Label generation errors,C13 - Incorrect expiry date/time (Label generation),Op 67,Op 36,N - Distraction,Low,None,No,incorrect expiry time on label
+10/03/2022,Zone 5 Cyt,B - Made under Section 10,busulfan,B - Cytotoxic paed,C - Check in preparation area,C - Label generation errors,C13 - Incorrect expiry date/time (Label generation),Op 67,Op 105,N - Distraction,Low,None,No,incorrect expiry time on label
+07/03/2022,NCCC,B - Made under Section 10,Fluorouracil Infusor,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E2 Incorrect strength assembled (Assembly),Op 88,Op 120,N - Distraction,Low,None,No,paclitaxel 30mg set up instead of 100mg
+08/03/2022,NCCC,B - Made under Section 10,Atezolizumab,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E2 Incorrect strength assembled (Assembly),Op 80,Op 9,N - Distraction,Low,None,No,missing one vial
+08/03/2022,NCCC,B - Made under Section 10,bortezomib,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,B5 - Incorrect volume of diluent (Worksheet prep),Op 118,Op 9,N - Distraction,Low,None,No,"1 sodium chloride missing, not detected during worksheet prep."
+08/03/2022,NCCC,B - Made under Section 10,fluorouracil,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E7 - Incorrect quantity/volume of diluent assembled (Assembly),Op 80,Op 11,N - Distraction,Low,None,No,insufficeint sodium chloride 10ml amps set up
+11/03/2022,NCCC,B - Made under Section 10,arsenic,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C13 - Incorrect expiry date/time (Label generation),Op 2,Op 120,N - Distraction,Low,None,No,incorrect expiry time on label
+14/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 69,Op 81,N - Distraction,Low,None,No,incorrect BN recorded for addaven
+15/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 25,Op 21,N - Distraction,Low,None,No,missing BN for Glucose 70%
+15/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 69,Op 21,N - Distraction,Low,None,No,not enough solivito and water
+16/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 14,Op 13,N - Distraction,Low,None,No,only 1 of 2 BN recorded for peditrace
+16/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 14,Op 13,N - Distraction,Low,None,No,too much calcium set up
+17/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E6 - Incorrect strength of diluent assembled (Assembly),Op 69,Op 13,N - Distraction,Low,None,No,glucose 70% set up instead of 50%
+17/03/2022,Zone 5 PN,B - Made under Section 10,fat,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 69,Op 13,N - Distraction,Low,None,No,not enough vitlipid set up
+17/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 39,Op 18,N - Distraction,Low,None,No,only 1 of 2 BN recorded for peditrace
+17/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 69,Op 18,N - Distraction,Low,None,No,not enough potassium acetate set up
+18/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E7 - Incorrect quantity/volume of diluent assembled (Assembly),Op 69,Op 13,N - Distraction,Low,None,No,not enough sodium chloride
+18/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 66,Op 13,N - Distraction,Low,None,No,not enough potassium chloride
+18/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E7 - Incorrect quantity/volume of diluent assembled (Assembly),Op 46,Op 13,N - Distraction,Low,None,No,not enough glucose 50% set up
+18/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 34,Op 18,N - Distraction,Low,None,No,only 1 BN for magnesium recorded
+18/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 53,Op 18,N - Distraction,Low,None,No,only 1 BN for solivito recorded
+18/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 53,Op 18,N - Distraction,Low,None,No,not enough potassium chloride set up
+14/03/2022,Zone 5 AD,B - Made under Section 10,caspofungin,F - Other Aseptic Product,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 22,Op 29,N - Distraction,Low,None,No,BN recorded incorrectly for sodium chloride
+15/03/2022,Zone 5 AD,B - Made under Section 10,chlorhexidine allergy,F - Other Aseptic Product,C - Check in preparation area,C - Label generation errors,C1 - Incorrect patient details (Label generation),Op 22,Op 12,N - Distraction,Low,None,No,incorrect hospital number on label
+18/03/2022,Zone 5 AD,B - Made under Section 10,ambisome,F - Other Aseptic Product,C - Check in preparation area,B - Worksheet preparation error,B1 - Incorrect patient name (Worksheet prep) ,Op 22,Op 66,N - Distraction,Low,None,No,incorrect ward on worksheet/label
+18/03/2022,Zone 5 AD,B - Made under Section 10,ambisome,F - Other Aseptic Product,C - Check in preparation area,B - Worksheet preparation error,B1 - Incorrect patient name (Worksheet prep) ,Op 22,Op 66,N - Distraction,Low,None,No,incorrect ward on worksheet/label
+17/03/2022,Zone 6,A - Made under MS License,voriconazole eye drops,F - Other Aseptic Product,C - Check in preparation area,B - Worksheet preparation error,C13 - Incorrect expiry date/time (Label generation),Op 56,Op 18,N - Distraction,Low,None,No,incorrect expiry date
+17/03/2022,Zone 6,A - Made under MS License,tobramycin,F - Other Aseptic Product,C - Check in preparation area,B - Worksheet preparation error,C13 - Incorrect expiry date/time (Label generation),Op 37,Op 18,N - Distraction,Low,None,No,incorrect expiry date
+14/03/2022,NCCC,B - Made under Section 10,palitizumab,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C13 - Incorrect expiry date/time (Label generation),Op 2,Op 120,N - Distraction,Low,None,No,incorrect expiry time on label
+14/03/2022,NCCC,B - Made under Section 10,cyclophosphamide,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,B3 - Incorrect dosage calculation (Worksheet prep),Op 2,Op 120,N - Distraction,Low,None,No,only 1 syringe on worksheet instead of 2 needed to split dose due to size of dose.
+14/03/2022,NCCC,B - Made under Section 10,fluorouracil,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C13 - Incorrect expiry date/time (Label generation),Op 116,Op 120,N - Distraction,Low,None,No,incorrect expiry date on label
+14/03/2022,NCCC,B - Made under Section 10,doxorubicin,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 88,Op 120,N - Distraction,Low,None,No,not all batch numbers recorded
+14/03/2022,NCCC,B - Made under Section 10,gemcitabine,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 88,Op 120,N - Distraction,Low,None,No,set up three vials of 200mg strength instead of one
+14/03/2022,NCCC,B - Made under Section 10,bortezomib,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C13 - Incorrect expiry date/time (Label generation),Op 2,Op 120,N - Distraction,Low,None,No,no expiry date on label
+15/03/2022,NCCC,B - Made under Section 10,oxaliplatin,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E7 - Incorrect quantity/volume of diluent assembled (Assembly),Op 2,Op 9,N - Distraction,Low,None,No,"wrong glucose volume, 500ml instead of 100ml"
+15/03/2022,NCCC,B - Made under Section 10,oxaliplatin,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,C13 - Incorrect expiry date/time (Label generation),Op 2,Op 9,N - Distraction,Low,None,No,incorrect expiry hour
+16/03/2022,NCCC,B - Made under Section 10,treosulfan,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E6 - Incorrect strength of diluent assembled (Assembly),Op 28,Op 120,N - Distraction,Low,None,No,incorrect strength of sodium chloride set up 0.9% instead of 0.18%
+17/03/2022,NCCC,D - Clinical Trial,caelyx trial,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C3 - Incorrect diluent name (Label generation),Op 118,Op 11,N - Distraction,Low,None,No,incorrect diluent on label
+17/03/2022,NCCC,B - Made under Section 10,fluorouracil,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,B5 - Incorrect volume of diluent (Worksheet prep),Op 118,Op 11,N - Distraction,Low,None,No,insufficeint sodium chloride amps requested on worksheet
+17/03/2022,NCCC,B - Made under Section 10,avelumab,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C8 - Incorrect route (Label generation),Op 2,Op 11,N - Distraction,Low,None,No,wrong route on labels
+19/03/2022,NCCC,B - Made under Section 10,cisplatin,A - Cytotoxic adult,C - Check in preparation area,A - Inaccurate prescription/transcription verification,A1 - Inaccurate prescription/transcription verification (Prescription) ,Op 2,Op 120,N - Distraction,Low,None,No,no clinical check
+21/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 68,Op 27,N - Distraction,Low,None,No,not enough potassium chloride set up
+21/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E1 - Incorrect drug assembled (Assembly),Op 42,Op 81,N - Distraction,Low,None,No,zinc set up instead of magnesium
+21/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 42,Op 81,N - Distraction,Low,None,No,missing BN for peditrace
+22/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E1 - Incorrect drug assembled (Assembly),Op 68,Op 21,N - Distraction,Low,None,No,sodium chloride set up instead of calcium chloride
+22/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 112,Op 21,N - Distraction,Low,None,No,incorrect BN for sodium gylcerphos
+22/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 112,Op 21,N - Distraction,Low,None,No,incorrect BN for Glucose 70%
+22/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 84,Op 21,N - Distraction,Low,None,No,incorrect BN for SMOF
+22/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E1 - Incorrect drug assembled (Assembly),Op 84,Op 21,N - Distraction,Low,None,No,selanase set up instead of zinc
+22/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 84,Op 21,N - Distraction,Low,None,No,incorrect BN for glucose 40%
+22/03/2022,Zone 5 PN,B - Made under Section 10,paed fat,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 76,Op 27,N - Distraction,Low,None,No,only 1 of 2 set up for fat bottle
+23/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 25,Op 27,N - Distraction,Low,None,No,only 1 of 2 BN for WFI recorded
+23/03/2022,Zone 5 PN,B - Made under Section 10,babiven,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 21,Op 27,N - Distraction,Low,None,No,only 1 of 2 BN for Glucose 50% recorded
+24/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E1 - Incorrect drug assembled (Assembly),Op 68,Op 21,N - Distraction,Low,None,No,aminoven set up instead of vaminolact
+24/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 25,Op 21,N - Distraction,Low,None,No,missing BN for solivito
+24/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 25,Op 21,N - Distraction,Low,None,No,missing BN for potassium chloride
+24/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E1 - Incorrect drug assembled (Assembly),Op 84,Op 21,N - Distraction,Low,None,No,no nutritain set up
+24/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 84,Op 21,N - Distraction,Low,None,No,incorrect BN for vaminolact
+24/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 68,Op 21,N - Distraction,Low,None,No,missing BN for solivito
+25/03/2022,Zone 5 PN,B - Made under Section 10,paed bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 84,Op 18,N - Distraction,Low,None,No,missing BN for aminoven
+25/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 25,Op 13,N - Distraction,Low,None,No,not enough SMOF set up
+23/03/2022,Zone 5 Cyt,B - Made under Section 10,cardioxanne,B - Cytotoxic paed,C - Check in preparation area,E - Assembly of starting materials,E7 - Incorrect quantity/volume of diluent assembled (Assembly),Op 77,Op 61,N - Distraction,Low,None,No,incorrect quantity of WFI
+25/03/2022,Zone 5 Cyt,B - Made under Section 10,Vinorelbine,B - Cytotoxic paed,C - Check in preparation area,B - Worksheet preparation error,B1 - Incorrect patient name (Worksheet prep) ,Op 116,Op 66,N - Distraction,Low,None,No,incorrect hospital number on worksheet
+24/03/2022,Zone 6,A - Made under MS License,meropenem,F - Other Aseptic Product,C - Check in preparation area,C - Label generation errors,C5 - Incorrect diluent volume (Label generation),Op 86,Op 18,N - Distraction,Low,None,No,incorrect volume on label
+25/03/2022,Zone 6,A - Made under MS License,sterile vial,F - Other Aseptic Product,C - Check in preparation area,E - Assembly of starting materials,E13 - Incorrect batch number for drug vials recorded (Assembly),Op 117,Op 82,N - Distraction,Low,None,No,Missing BN on worksheet for vials
+21/03/2022,NCCC,B - Made under Section 10,etoposide,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C13 - Incorrect expiry date/time (Label generation),Op 118,Op 120,N - Distraction,Low,None,No,incorrect expiry time on label
+21/03/2022,NCCC,B - Made under Section 10,bevacizumab,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C13 - Incorrect expiry date/time (Label generation),Op 118,Op 120,N - Distraction,Low,None,No,incorrect expiry time on label
+21/03/2022,NCCC,B - Made under Section 10,oxaliplatin,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,B1 - Incorrect patient name (Worksheet prep) ,Op 116,Op 120,N - Distraction,Low,None,No,incorrect patient name on worksheet and labels
+22/03/2022,NCCC,B - Made under Section 10,etoposide,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C13 - Incorrect expiry date/time (Label generation),Op 2,Op 136,N - Distraction,Low,None,No,no expiry time on labels
+23/03/2022,NCCC,D - Clinical Trial,trial,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C4 - Incorrect drug strength (Label generation),Op 118,Op 11,N - Distraction,Low,None,No,incorrect dose on lables
+23/03/2022,NCCC,D - Clinical Trial,trial,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C13 - Incorrect expiry date/time (Label generation),Op 118,Op 11,N - Distraction,Low,None,No,incorrect expiry on labels
+23/03/2022,NCCC,B - Made under Section 10,cytarabine,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E2 Incorrect strength assembled (Assembly),Op 34,Op 120,N - Distraction,Low,None,No,incorrect strength of cytarabine set up 2g instead of 1g
+23/03/2022,NCCC,B - Made under Section 10,cabizataxel,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C9 - Incorrect batch number for product (Label generation),Op 118,Op 11,N - Distraction,Low,None,No,incorrect BN on labels
+24/03/2022,NCCC,B - Made under Section 10,paclitaxel,A - Cytotoxic adult,C - Check in preparation area,A - Inaccurate prescription/transcription verification,A1 - Inaccurate prescription/transcription verification (Prescription) ,Op 2,Op 120,N - Distraction,Low,None,No,incorrect dispensing date on partial prescription
+14/03/2022,Zone 5 Cyt,B - Made under Section 10,Botox,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C18 - Incorrect quantity of labels (Label generation),,Op 29,N - Distraction,Low,None,No,incorrect quantity of labels for 2 doses
+14/03/2022,Zone 5 Cyt,B - Made under Section 10,Doxorubicin LUMI beads,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C13 - Incorrect expiry date/time (Label generation),Op 67,Op 29,N - Distraction,Low,None,No,incorrect expiry date on labels
+15/03/2022,Zone 5 Cyt,B - Made under Section 10,topical mitomycin,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,B10 - Use of incorrect worksheet (Worksheet prep),Op 29,Op 12,N - Distraction,Low,None,No,unlicensed stock syringe worksheet used in error
+18/03/2022,Zone 5 Cyt,B - Made under Section 10,Methotrexate IT,B - Cytotoxic paed,C - Check in preparation area,C - Label generation errors,C1 - Incorrect patient details (Label generation),Op 116,Op 4,N - Distraction,Low,None,No,incorrect hospital number
+29/03/2022,Zone 3,A - Made under MS License,Isoniazid elixir,F - Other Aseptic Product,C - Check in preparation area,B - Worksheet preparation error,C13 - Incorrect expiry date/time (Label generation),Op 79,Op 27,N - Distraction,Low,None,No,incorrect expiry allocated
+28/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E7 - Incorrect quantity/volume of diluent assembled (Assembly),Op 46,Op 27,N - Distraction,Low,None,No,not enough glucose 50% set up
+30/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 39,Op 27,N - Distraction,Low,None,No,not enough potassium acetate set up
+30/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 39,Op 27,N - Distraction,Low,None,No,1 of 2 BN for G40% not recorded
+30/03/2022,Zone 5 PN,B - Made under Section 10,adult bag,C - Parenteral Nutrition - adult,C - Check in preparation area,E - Assembly of starting materials,E2 Incorrect strength assembled (Assembly),Op 68,Op 27,N - Distraction,Low,None,No,vitlipid infant set up instead of adult
+30/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 103,Op 27,N - Distraction,Low,None,No,only 1 of 2 BN for WFI recorded
+31/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E15 - Incorrect batch number for diluent vials recorded (Assembly),Op 76,Op 18,N - Distraction,Low,None,No,only 1 of 2 BN for WFI recorded
+31/03/2022,Zone 5 PN,B - Made under Section 10,Paed Bag,D - Parenteral Nutrition - paed,C - Check in preparation area,E - Assembly of starting materials,E3 - Incorrect quantity of drug vials assembled (Assembly),Op 21,Op 13,N - Distraction,Low,None,No,too much sodium glycerphosphate set up
+29/03/2022,Zone 5 AD,B - Made under Section 10,Tazocin allergy,F - Other Aseptic Product,C - Check in preparation area,C - Label generation errors,C4 - Incorrect drug strength (Label generation),Op 12,Op 27,N - Distraction,Low,None,No,incorrect strength of tazocin on label
+28/03/2022,Zone 5 Cyt,B - Made under Section 10,bortezomib,B - Cytotoxic paed,C - Check in preparation area,B - Worksheet preparation error,B3 - Incorrect dosage calculation (Worksheet prep),Op 67,Op 12,N - Distraction,Low,None,No,incorrect number of doses transcribed
+30/03/2022,Zone 5 Cyt,B - Made under Section 10,cytarabine,B - Cytotoxic paed,C - Check in preparation area,C - Label generation errors,C2 - Incorrect drug name (Label generation),Op 66,Op 13,N - Distraction,Low,None,No,wrong label selected
+28/03/2022,Zone 6,A - Made under MS License,dosifuser,F - Other Aseptic Product,C - Check in preparation area,E - Assembly of starting materials,E8 - Incorrect quantity of syringes (Assembly),Op 37,Op 82,N - Distraction,Low,None,No,incorrect quantity of dosifuser
+28/03/2022,NCCC,B - Made under Section 10,nivolumab,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,B2 - Incorrect drug name (Worksheet prep),Op 118,Op 120,N - Distraction,Low,None,No,incorrect labels attached to worksheet - ipilimumab instead of nivolumab
+28/03/2022,NCCC,B - Made under Section 10,cisplatin,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E7 - Incorrect quantity/volume of diluent assembled (Assembly),Op 115,Op 61,N - Distraction,Low,None,No,too many sodium chloride bags
+28/03/2022,NCCC,B - Made under Section 10,sodium chloride dosi fusor,A - Cytotoxic adult,C - Check in preparation area,E - Assembly of starting materials,E14 - Incorrect expiry date for drug vials recorded (Assembly),Op 88,Op 61,N - Distraction,Low,None,No,incorrect expiry date recorded for dosifusor
+29/03/2022,NCCC,B - Made under Section 10,isatixumab,A - Cytotoxic adult,C - Check in preparation area,B - Worksheet preparation error,C13 - Incorrect expiry date/time (Label generation),Op 2,Op 120,N - Distraction,Low,None,No,incorrect expiry date on labels and worksheet
+29/03/2022,NCCC,B - Made under Section 10,Gentuzumab,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C9 - Incorrect batch number for product (Label generation),Op 2,Op 120,N - Distraction,Low,None,No,incorrect batch number on labels
+30/03/2022,NCCC,B - Made under Section 10,fluorouracil,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C1 - Incorrect patient details (Label generation),Op 118,Op 11,N - Distraction,Low,None,No,Incorrect patient number on labels
+31/03/2022,NCCC,B - Made under Section 10,etoposide,A - Cytotoxic adult,C - Check in preparation area,C - Label generation errors,C13 - Incorrect expiry date/time (Label generation),Op 2,Op 120,N - Distraction,Low,None,No,incorrect expiry time on label
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
