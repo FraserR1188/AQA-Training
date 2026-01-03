@@ -85,3 +85,61 @@ Pearson correlation provides:
 
 Relevance to AQA:
 Enables early identification of trends or issues such as operator variability, increased AER rates, or environmental anomalies in aseptic processing.
+
+### Module 4 — Model Development (Regression & Evaluation)
+
+Focus: Building, evaluating, and refining regression models to explain relationships between variables and make reliable predictions using statistical and visual techniques.
+
+Key Topics:
+
+- Simple Linear Regression (SLR):
+  Models the relationship between one independent predictor variable (x) and one dependent target variable (y).
+
+- Multiple Linear Regression (MLR):
+  Extends linear regression to include two or more predictor variables to explain a single continuous target variable.
+
+- Regression & Residual Plots:
+
+regplot visualises the strength and direction of linear relationships.
+residplot is used to evaluate model assumptions.
+
+- Well-fitting models show residuals with:
+
+Zero mean
+Random distribution around the x-axis
+Constant variance
+
+- Distribution Plots for Model Comparison:
+  Used to compare predicted vs. actual values, especially useful for models with multiple independent variables.
+
+- Polynomial Regression:
+
+Polynomial order directly affects model flexibility and fit.
+Python’s polyfit enables modelling of non-linear relationships where linear models are insufficient.
+
+- Feature Transformation & Scaling:
+
+Polynomial features improve model expressiveness.
+StandardScaler normalises features to improve model stability and performance.
+Implemented using scikit-learn preprocessing tools.
+
+- Pipelines:
+
+Combine scaling, feature transformation, and model fitting into a single workflow.
+Improve reproducibility, clarity, and efficiency of the modelling process.
+
+- Model Evaluation Metrics:
+
+Mean Squared Error (MSE): Measures average squared prediction error (lower is better).
+R-squared (R²): Indicates how much variance in the target variable is explained by the model.
+Values close to 1 indicate a strong model
+Negative R² values can indicate overfitting or poor model choice
+
+- Model Comparison & Validation:
+
+Effective evaluation combines visual tools (regression plots, residual plots, distribution plots) with numerical metrics (MSE, R²).
+Residual patterns or curvature suggest non-linear behaviour or insufficient data.
+
+Key Insights: No single metric defines a “good” model — suitability depends on context and use case. MSE is often the most intuitive performance measure. Residual analysis is critical for detecting model bias, non-linearity, and instability.
+
+Relevance to AQA: Supports development of reliable predictive models for operator performance, deviation trends, and process variability, while reinforcing good modelling discipline through validation, interpretability, and robustness checks.
